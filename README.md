@@ -1,5 +1,5 @@
 # LearnJitsu
 
-Team Members: Sam Schoepke
+Team Members: Sam Schoepke, Chengming Lai
 
 Description:
